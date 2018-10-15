@@ -1,0 +1,29 @@
+.navbar-expand-lg {
+    height: 5rem;
+    background: #ffffff; 
+    border-bottom: .1rem solid #cccccc;
+}
+
+.navbar-brand {
+    font-size: 2rem;
+    font-family: 'Playfair Display', serif;
+    margin-left: 10rem;
+    font-weight: 600;
+}
+
+.navbar-nav {
+    margin-left: 35rem;
+    font-size: .90rem;
+    
+}
+
+.navbar2 {
+    height: 10%;
+    border-top: .4rem solid #4aaaa5;
+}
+
+
+.jumbotron vertical center{
+    height:100%;
+    width:80%;
+}
